@@ -1,9 +1,5 @@
 # Привет, я [Likyor]! 👋
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[Likyor]&label=Просмотров+профиля&color=0e75b6&style=flat" alt="Просмотры" />
-</div>
-
 ---
 
 ### 👨‍💻 Обо мне
